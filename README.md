@@ -38,7 +38,7 @@ Post such spoilers after the HW is due. That is totally fine. If you are not sur
 
 ### Ask questions about assignments only.
 
-If you have questions, comments, or other concerns that are not related to assignments, please email your GSI or the instructor. We want to keep the focus of Ed-Discussion as a Q&A forum for assignments in STAT 33B.
+If you have questions, comments, or other concerns that are not related to assignments, please email the teaching staff. We want to keep the focus of the discussion forum as a Q&A forum for assignments.
 
  
 
@@ -61,7 +61,7 @@ Please do not post questions of the form:
 - "Is this the correct solution to HW X problem Y?"
 - "Would this receive full credit on HW X problem Y?"
 - "Is this the right level of detail for HW X problem Y?"
-- Please do not use Ed-Discussion as a medium to ask instructors to check your homework in advance. We simply cannot check every student's homework through Ed-Discussion.
+- Please do not use the discussion forum as a medium to ask instructors to check your homework in advance. We simply cannot check every student's homework through this forum.
 
 Feel free to ask questions of clarification about a certain HW problem, or ask questions about the course content to achieve a deeper understanding, but at a certain point, you must apply your knowledge, give it your best shot, and submit your answers with confidence.
 
@@ -69,7 +69,7 @@ Feel free to ask questions of clarification about a certain HW problem, or ask q
 
 ### Post a screenshot of any resource referenced.
 
-Your question should be self-contained. The GSIs (and other responders) should not have to scan through PDFs to even figure out what the question is. Ask yourself: am I referring to some lecture /HW solution/discussion solution/etc?
+Your question should be self-contained. The teaching staff (and other responders) should not have to scan through PDFs to even figure out what the question is. Ask yourself: am I referring to some lecture /HW solution/discussion solution/etc?
 
 If the answer is yes, post a screenshot of the relevant part. This can include your handwritten notes from the relevant lecture.
 
@@ -81,11 +81,11 @@ Don't post one line saying:
 
 > "At step n, I get XYZ, and I'm now confused."
 
-This forces the GSIs to guess:
+This forces the teaching staff to guess:
 
 > What happened in steps 1, 2, ..., n - 1?
 
-Most likely, the GSIs will guess wrong, and we run into a mess of followup questions trying to figure out what steps 1, 2, ..., n - 1 were.
+Most likely, the teaching staff will guess wrong, and we run into a mess of followup questions trying to figure out what steps 1, 2, ..., n - 1 were.
 
 Instead, post:
 
@@ -95,7 +95,7 @@ Instead, post:
 > Next, I do ..., and I get ...
 > Now, I get $&%&#(, and this makes no sense.
 
-Then, the GSI can respond:
+Then, the teaching staff can respond:
 
 > The mistake is at step 3, you're not allowed to apply ABC to XYZ because ...
 

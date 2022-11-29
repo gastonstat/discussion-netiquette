@@ -90,9 +90,13 @@ Most likely, the teaching staff will guess wrong, and we run into a mess of foll
 Instead, post:
 
 > Starting out, we have: ...
+> 
 > Then, I do ..., and I get ...
+> 
 > Next, I do ..., and I get ...
+> 
 > Next, I do ..., and I get ...
+> 
 > Now, I get $&%&#(, and this makes no sense.
 
 Then, the teaching staff can respond:

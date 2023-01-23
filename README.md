@@ -54,7 +54,7 @@ If you think your questions may take more than 3 or 5 minutes to answer, please 
 
  
 
-## The dicussion forum is not for pre-grading.
+## The discussion forum is not for pre-grading.
 
 Please do not post questions of the form:
 

@@ -4,7 +4,7 @@ Here are some recommendations I share with students for using online educational
 
 
 
-## Keep in mind common rules of netiquette.
+## Keep in mind common rules of netiquette
 
 - Don't post irrelevant links, comments, thoughts or pictures.
 - Don't type in ALL CAPS! If you do it will look like you are screaming.
@@ -20,13 +20,13 @@ Here are some recommendations I share with students for using online educational
  
 
 
-## Ask Lab and HW questions only in the designated Lab and HW posts.
+## Ask Lab and HW questions only in the designated Lab and HW posts
 
 We'll create individual posts for each type of assignment. Please ask questions, discuss problems, or help out in those posts only. Before asking a question, read through (or search) the whole thread to see if your question has been answered. Likewise, stay on topic.
 
  
 
-## Do NOT post answers.
+## Do NOT post answers
 
 Please don't give away the answer. You can explain things in a way that still lets other students figure out the essence of the problem on their own, but don't spoil the problem. For example, don't point to a useful stackoverflow or YouTube link that works out essentially what the problem is asking about.
 
@@ -36,25 +36,25 @@ Post such spoilers after the HW is due. That is totally fine. If you are not sur
 
  
 
-## Ask questions about assignments only.
+## Ask questions about assignments only
 
 If you have questions, comments, or other concerns that are not related to assignments, please email the teaching staff. We want to keep the focus of the discussion forum as a Q&A forum for assignments.
 
  
 
-## Try to make posts public.
+## Try to make posts public
 
 While not violating Rule 2, try to make your questions public, because others might have the same question and we don't need to answer them multiple times.
 
  
 
-## The dicussion forum is not Office Hours. 3 minute-test.
+## The dicussion forum is not Office Hours. 3 minute-test
 
 If you think your questions may take more than 3 or 5 minutes to answer, please come to office hours, or try to schedule a zoom meeting with the teaching staff.
 
  
 
-## The discussion forum is not for pre-grading.
+## The discussion forum is not for pre-grading
 
 Please do not post questions of the form:
 
@@ -67,7 +67,7 @@ Feel free to ask questions of clarification about a certain HW problem, or ask q
 
  
 
-## Post a screenshot of any resource referenced.
+## Post a screenshot of any resource referenced
 
 Your question should be self-contained. The teaching staff (and other responders) should not have to scan through PDFs to even figure out what the question is. Ask yourself: am I referring to some lecture /HW solution/discussion solution/etc?
 
@@ -75,7 +75,7 @@ If the answer is yes, post a screenshot of the relevant part. This can include y
 
  
 
-## Post all your work.
+## Post all your work
 
 Don't post one line saying:
 
@@ -107,7 +107,7 @@ In summary, when you do ask for help, include details of what attempts you've ma
 
  
 
-## We reserve the right to delete any posts.
+## We reserve the right to delete any posts
 
 We reserve the right to delete, move, or edit any posts, and even to make the discussion forum inactive, at any time, without previous notice.
 

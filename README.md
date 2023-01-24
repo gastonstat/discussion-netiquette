@@ -111,4 +111,4 @@ In summary, when you do ask for help, include details of what attempts you've ma
 
 We reserve the right to delete, move, or edit any posts, and even to make the discussion forum inactive, at any time, without previous notice.
 
-Onnline discussion resources can be great tools if used appropriately, respectfully, and wisely. Take advantage of them, and make the most out of them.
+Online discussion resources can be great tools if used appropriately, respectfully, and wisely. Take advantage of them, and make the most out of them.

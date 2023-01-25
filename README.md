@@ -2,6 +2,7 @@
 
 Here are some recommendations I share with students for using online educational/learning threaded discussion platforms (e.g. Piazza, Ed Discussion, Canvas discussion board, etc)
 
+In the past, some students have decided to use external discussion forums. When used responsibly and appropriately, we think that's a great idea. But we have never endorsed their use, nor we have monitored, moderated or managed them, and we won't do that this time.
 
 
 ## Keep in mind common rules of netiquette

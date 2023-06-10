@@ -104,7 +104,7 @@ Then, the teaching staff can respond:
 
 > The mistake is at step 3, you're not allowed to apply ABC to XYZ because ...
 
-In summary, when you do ask for help, include details of what attempts you've made to solve the problem. It will save time and also show people that you are making an effort to help yourself.
+In summary, when asking for help, include details of what attempts you've made to solve the problem. It will save time and also show people that you are making an effort to help yourself.
 
  
 
